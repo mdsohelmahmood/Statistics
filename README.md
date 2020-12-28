@@ -1,4 +1,5 @@
 TDS article: https://towardsdatascience.com/statistical-tests-t-test-andanova-674b242a5274
+TDS article: https://towardsdatascience.com/practical-implementation-of-outlier-detection-in-python-90680453b3ce
 
 # Statistics
 
